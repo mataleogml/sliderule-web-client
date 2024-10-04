@@ -1,13 +1,9 @@
-
----
-
 # Web Client for [SlideRule Earth](https://www.slideruleearth.io)
 
-[![License: University of Washington](https://img.shields.io/badge/OpenSource-UniveristyofWashington-blue)](LICENSE)  
+[![License: University of Washington](https://img.shields.io/badge/Open_Source-Univeristy_of_Washington-blue)](LICENSE)
+
 This repository contains the web client for [SlideRule Earth](https://www.slideruleearth.io), built on top of the secure static site architecture derived from [Amazon CloudFront Secure Static Site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site) v0.11.
-The UI/UX was developed at the [Savannah College of Art and Design](www.scad.edu) by the following: 
-- Gabriel Mateleo
-- Vincent Lee
+The user interface was developed at the [Savannah College of Art and Design](https://www.scad.edu) by [Gabriel Lam](https://www.linkedin.com/in/mataleogml/) and [Vincent Lee](https://www.linkedin.com/in/bvincentlee/).
 
 ## Overview
 
@@ -81,5 +77,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Contact
 
 For questions or support, please open an issue or contact the project maintainers at [sliderule@u.washington.edu](mailto:sliderule@u.washington.edu).
-
----
